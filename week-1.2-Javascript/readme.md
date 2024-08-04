@@ -1,8 +1,7 @@
 
+## Week 1.2 Assignments
 
-Week 1.2 Assignments
-
-List of Contents
+# List of Contents
 
     1. Variables
     2. Data types
