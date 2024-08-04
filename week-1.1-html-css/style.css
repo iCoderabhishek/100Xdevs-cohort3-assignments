@@ -1,0 +1,160 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    color: #424242;
+
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal
+    
+
+}
+
+.inter-newf {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal
+}
+
+/* nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+    padding: 24px 0px; 
+    padding-left: 210px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+*/
+
+nav {
+    display: flex;
+    align-items: center; 
+    justify-content: space-between; 
+    padding: 24px 0px;
+    padding-left: 210px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1); 
+    margin-bottom: 73px; 
+
+}
+
+
+.logo-div {
+    padding: 0; 
+    max-height: 18px; 
+    cursor: pointer;
+}
+
+.logo {
+    padding: 0;
+    max-height: 15.55px;
+}
+
+.options-div{
+    padding-right: 210px;
+}
+
+li , i{
+    list-style: none;
+    display: flex; 
+    justify-content: space-around;
+    padding: 0; 
+    margin: 0; 
+    gap: 40px;
+    cursor: pointer;
+   
+}
+
+
+a{
+    text-decoration: none;
+    color: #666666;
+    font-family: "Inter", serif;
+    font-size: 14.4px
+}
+a:hover{
+    color: #387ed1;
+}
+ul{
+    font-size: 0.9rem;
+}
+
+.options-div{
+    padding-left: 75px;
+    
+}
+
+
+.feature-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+.landing-zerodha{
+    margin-top: 0;
+    height: 390px;
+    width: 860px;
+    margin-bottom: 25px
+}
+
+.image-text1-div{
+    font-family: "Inter", sans-serif;
+    text-align: center;
+    font-size: 45px;
+    line-height: 1.25;
+    margin-bottom: 10px;
+}
+
+.image-text2-div {
+    font-size: 20px;
+    text-align: center;
+    margin: 10px 0px 20px;
+    
+}
+
+.signup-div {
+    display: flex;
+    justify-content: center;
+    padding: 0 20px 120px 20px;
+    margin-bottom: 10px;
+
+    
+}
+
+button {
+    padding: 10px 30px; /* This line already exists, removed the redundant padding-top */
+    margin: 25px 0px 0px;
+    text-align: center;
+    background-color: #387ed1;
+    color: #fff; /* Ensures text is visible on the button */
+    border: none; /* Removes any default border */
+    border-radius: 5px; /* Rounds the corners */
+    cursor: pointer; /* Changes cursor to pointer on hover */
+    font-size: 19.2px;
+    font-weight: 500;
+    transition: background-color 0.3s ease;
+    border: 1px solid rgba(0, 0, 0, 0) !important;
+    border-radius: 3px;
+}
+
+
+button:hover {
+    background-color: #302f2f;
+}
+
+button text {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:300;
+    font-style: normal;
+}
+
+.next-feature{
+
+    margin-top: 0 auto;
+}
