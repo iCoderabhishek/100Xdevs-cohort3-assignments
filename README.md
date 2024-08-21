@@ -14,3 +14,7 @@ Table of content
             - Function
             - If/Els
             - Loops
+
+
+## WEEK 3:
+      - 1. DOM
