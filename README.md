@@ -14,7 +14,8 @@ Table of content
             - Function
             - If/Els
             - Loops
-
+## WEEK 2: 
+            -1. Async JS
 
 ## WEEK 3:
-      - 1. DOM
+            - 1. DOM
